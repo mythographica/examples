@@ -1,0 +1,24 @@
+{
+  "name": "mnemonica_examples",
+  "version": "1.0.0",
+  "description": "examples of mnemonica projex",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mnemonica": "^0.9.79"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "express": "node ./express/mnemonica.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mythographica/examples.git"
+  },
+  "author": "went.out@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mythographica/examples/issues"
+  },
+  "homepage": "https://github.com/mythographica/examples#readme"
+}

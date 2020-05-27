@@ -27,6 +27,17 @@ Please visit [NPM Page](https://www.npmjs.com/package/mnemonica) page for explan
 
 Please visit [Mnemonica TypeScript](https://github.com/wentout/mnemonica/blob/master/TypeScript.md) page for explanations.
 
+---
+
+# Express Server note
+
+In a relation to [Express Server](http://expressjs.com/) project, please run
+
+```bash
+
+npm run express
+
+```
 
 ---
 

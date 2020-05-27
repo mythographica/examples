@@ -21,17 +21,23 @@ app.listen(PORT, () => {
 
 
 
-// Что здесь не так ?
+// What is wrong Here ?
 /**
 
-Абсолютно ВСЁ!
+Everything!
 
-1. С какими роутами стартовало приложение?
-2. На каком порту?
-3. Какие запросы оно будет обрабатывать?
-4. Как оно будет их логгировать?
-5. Где хранится представление обработки запроса
-6. Как сменить контекст приложения
-7. Как обработать ошибки?
+Just, let try to give answers
+	to the following questions
+		about our app and it's behaviour:
+
+1. Which routes it can serve?
+2. Which PORT it runs?
+3. Which sort of requests it can server?
+4. What is a log format, and what is logging system here?
+5. Where is request handler, what is current representation
+6. Are we able to change the context of request hanlder at all?
+7. What is Error Handling strategy for requests?
+
+... and we might continue
 
  */

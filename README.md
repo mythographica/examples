@@ -27,6 +27,15 @@ Please visit [NPM Page](https://www.npmjs.com/package/mnemonica) page for explan
 
 Please visit [Mnemonica TypeScript](https://github.com/wentout/mnemonica/blob/master/TypeScript.md) page for explanations.
 
+
 ---
 
 
+# React related note
+
+
+You can find code, which is related to React.js on [Mythographica/Slider](https://github.com/mythographica/slider)
+
+Demo itself [is Here](https://mythographica.github.io/slider/)
+
+---

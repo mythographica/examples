@@ -7,7 +7,9 @@
     "express": "^4.17.1",
     "mnemonica": "^0.9.79"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.6"
+  },
   "scripts": {
     "express": "node ./express/mnemonica.js"
   },

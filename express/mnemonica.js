@@ -93,7 +93,7 @@ defaultNamespace.registerHook('creationError', ({TypeName, inheritedInstance, ar
 		debugger;
 		process.nextTick(() => {
 			if (!res.finished) {
-				console.error(new Error('Unhandled promise rejection !'));
+				console.error(new Error('Request gone via try~catch mistake of async~await resource!'));
 				console.error(inheritedInstance.stack);
 				res.end(inheritedInstance.message);
 			}
